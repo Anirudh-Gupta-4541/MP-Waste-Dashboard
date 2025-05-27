@@ -1,0 +1,9 @@
+pandas
+openpyxl
+json5
+plotly
+dash
+dash-bootstrap-components
+pulp
+shapely
+pygments
